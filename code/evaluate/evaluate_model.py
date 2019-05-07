@@ -11,6 +11,7 @@ data you may have shared with Microsoft in the creation of the Software Code.
 Unless applicable law gives you more rights, Microsoft reserves all other
 rights not expressly granted herein, whether by implication, estoppel or
 otherwise. ​
+
  ​
 THE SOFTWARE CODE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
